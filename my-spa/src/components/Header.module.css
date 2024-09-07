@@ -1,0 +1,20 @@
+.header {
+  background-color: #e4c1b5;
+  padding: 1rem;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.navLink {
+  text-decoration: none;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
